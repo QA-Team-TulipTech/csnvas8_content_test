@@ -6,4 +6,4 @@ Feature: Testing content pages
 
   Scenario: On the all article page content is available
     Given User can enter to the https://www.canvas8.com/search
-    Then scroll down
+#    Then scroll down

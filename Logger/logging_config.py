@@ -1,42 +1,37 @@
-import logging
-from logging.handlers import RotatingFileHandler
 import os
+import logging
 
 
 def setup_logging():
-    # Logger configuration - Only set up if not already configured
-    if not logging.getLogger().hasHandlers():
-        # Create the log directory if it doesn't exist
-        if not os.path.exists('logs'):
-            os.makedirs('logs')
+    # Create Logs directory if it doesn't exist
+    logs_dir = 'Logs'
+    if not os.path.exists(logs_dir):
+        os.makedirs(logs_dir)
 
-        # Set up the logger
-        log_file_path = os.path.join('logs', 'test_automation.log')
+    logger = logging.getLogger('behave_logger')
+    logger.setLevel(logging.INFO)
 
-        logging.basicConfig(
-            level=logging.DEBUG,
-            format="%(asctime)s [%(levelname)s] %(module)s - %(message)s",
-            datefmt="%Y-%m-%d %H:%M:%S",
-            handlers=[
-                logging.StreamHandler(),  # Console logging
-                RotatingFileHandler(
-                    filename=log_file_path,
-                    maxBytes=5 * 1024 * 1024,  # 5 MB
-                    backupCount=5            # Keep 5 backup files
-                )
-            ]
-        )
+    # Create file handler which logs even debug messages
+    # File is now saved in the Logs directory
+    fh = logging.FileHandler(os.path.join(logs_dir, 'test_automation.log'))
+    fh.setLevel(logging.INFO)
 
+    # Create console handler with a higher log level
+    ch = logging.StreamHandler()
+    ch.setLevel(logging.ERROR)
 
-def get_logger(name):
-    # Setup logging if not already configured
-    setup_logging()
+    # Create formatter and add it to the handlers
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    fh.setFormatter(formatter)
+    ch.setFormatter(formatter)
 
-    # Get the logger
-    logger = logging.getLogger(name)
+    # Add the handlers to the logger
+    logger.addHandler(fh)
+    logger.addHandler(ch)
     return logger
 
 
-# Usage
-# logger = get_logger(__name__)
-# logger.debug("This is a debug message.")
+def get_logger(name):
+    setup_logging()
+    logger = logging.getLogger(name)
+    return logger

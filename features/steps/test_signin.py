@@ -1,17 +1,34 @@
-from selenium.webdriver.common.by import By
-from behave import given, when, then
+from behave import given, then
 
 
 @given('User can enter to the {website}')
-def enter_into_website(context,website):
-    context.app.login_page.enter_to_website(url=website)
+def enter_into_website(context, website):
+    try:
+        context.app.login_page.enter_to_website(url=website)
+        context.logger.info(f"Entered into website: {website}")
+    except Exception as e:
+        context.logger.error(f"Error entering website {website}: {e}")
+        raise
 
 
 @given('User can login')
 def login_to_canvas8(context):
-    context.app.login_page.sign_in('sadiqul.alam@canvas8.com', 'SAcanvas8')
+    try:
+        context.app.login_page.sign_in('sadiqul.alam@canvas8.com', 'SAcanvas8')
+        context.logger.info("User logged in successfully")
+    except Exception as e:
+        context.logger.error(f"Login failed: {e}")
+        raise
 
 
 @then('Verify Home link is present')
 def home_text_is_present(context):
-    context.app.home_page.verify_home_text_present()
+    try:
+        context.app.home_page.verify_home_text_present()
+        context.logger.info("Verified Home link is present")
+    except AssertionError as e:
+        context.logger.error(f"Home link verification failed: {e}")
+        raise
+    except Exception as e:
+        context.logger.error(f"Error in verifying Home link: {e}")
+        raise

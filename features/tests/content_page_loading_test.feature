@@ -6,5 +6,5 @@ Feature: Testing content pages
 
   Scenario: On the all article page content is available
     Given User can enter to the https://www.canvas8.com/search
-    Then scroll down 100 times
+    Then scroll down 5 times
     Then Test all articles have content

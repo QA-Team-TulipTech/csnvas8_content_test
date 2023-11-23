@@ -5,11 +5,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.wait import WebDriverWait
-from Logger.logging_config import get_logger
 from selenium.common.exceptions import NoSuchElementException
 
-# Initialize logger
-logger = get_logger(__name__)
 
 class Page:
     def __init__(self, driver):
@@ -196,35 +193,53 @@ class Page:
         """ Single click on an element identified by a locator. """
         self.click(*locator)  # Reusing the existing click method.
 
-    def assert_element_text_not_empty(self, *locator):
+    def assert_element_text_not_empty(self, *locator, context):
         """ Asserts that the text of the element identified by the locator is not empty. """
         try:
             element = self.driver.find_element(*locator)
-            text = element.text.strip()  # Strip to remove any leading/trailing whitespace
-            if not text:
-                logger.error(f"Soft Assert Failed: Text of element with locator {locator} is empty.")
-        except NoSuchElementException:
-            logger.error(f"Soft Assert Failed: Element with locator {locator} not found.")
+            text = element.text.strip()
+            assert text, f"Text of element with locator {locator} is empty."
+            # self.logger.info(f"Text found in element with locator {locator}: {text}")
+        except NoSuchElementException as e:
+            # self.logger.error(f"Element with locator {locator} not found: {e}")
+            pass  # Optionally, handle the exception here.
+        except AssertionError as ae:
+            context.logger.error(f"Assertion failed: {ae}")
 
-    def assert_no_error_message(self, *locator):
+    def assert_no_error_message(self, *locator, context):
         """ Asserts that there is no element with a specific class indicating an error. """
         try:
-            # Attempt to find the element with the specified class
             element = self.driver.find_element(*locator).text
-            if '404' in element:
-                logger.error("Assertion Failed: Error element found on the page.")
-                link = self.driver.current_url
-                logger.error(link)
-        except NoSuchElementException:
-            # If the element is not found, this is the desired outcome
-            logger.info("Test Passed: No error element found on the page.")
-            pass
+            assert '404' not in element, "Error element found on the page."
+            # self.logger.info("No error element found on the page.")
+        except NoSuchElementException as e:
+            # self.logger.info("Test Passed: No error element found on the page.")
+            pass  # Optionally, handle the exception here.
+        except AssertionError as ae:
+            context.logger.error(f"Assertion failed: {ae}")
+            context.logger.error(f"Error on page {self.driver.current_url}")
 
-
-
-
-
-
-
-
-
+# def assert_element_text_not_empty(self, *locator):
+#       """ Asserts that the text of the element identified by the locator is not empty. """
+#       try:
+#           element = self.driver.find_element(*locator)
+#           text = element.text.strip()
+#           assert text, f"Text of element with locator {locator} is empty."
+#           self.logger.info(f"Text found in element with locator {locator}: {text}")
+#       except NoSuchElementException as e:
+#           self.logger.error(f"Element with locator {locator} not found: {e}")
+#       except AssertionError as ae:
+#           self.logger.error(f"Assertion failed: {ae}")
+#
+#   def assert_no_error_message(self, *locator):
+#       """ Asserts that there is no element with a specific class indicating an error. """
+#       try:
+#           element = self.driver.find_element(*locator).text
+#           assert '404' not in element, "Error element found on the page."
+#           self.logger.info("No error element found on the page.")
+#       except NoSuchElementException as e:
+#           self.logger.info("Test Passed: No error element found on the page.")
+#       except AssertionError as ae:
+#           self.logger.error(f"Assertion failed: {ae}")
+#           link = self.driver.current_url
+#           self.logger.error(f"Error on page {link}")

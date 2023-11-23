@@ -1,10 +1,9 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.firefox import GeckoDriverManager
-
 from App.Application import Application
 from selenium.webdriver.support.wait import WebDriverWait
+
+from Logger.logging_config import setup_logging
+
 
 # behave -f allure_behave.formatter:AllureFormatter -o test_results/ features/tests/bestsellers.feature
 
@@ -16,7 +15,6 @@ def browser_init(context):
     # service = Service(driver_path)
     # context.driver = webdriver.Firefox(service=service)
 
-
     """with chrome"""
     # driver_path = ChromeDriverManager().install()
     # service = Service(driver_path)
@@ -25,8 +23,6 @@ def browser_init(context):
 
     """new chrome driver calling option"""
     context.driver = webdriver.Chrome()
-
-
 
     # driver_path = GeckoDriverManager().install()  # Use GeckoDriverManager for Firefox
     # context.driver = webdriver.Firefox(executable_path=driver_path)  # Use Firefox WebDriver here
@@ -44,7 +40,6 @@ def browser_init(context):
     #     options=options
     # )
 
-
     """### BROWSERSTACK ###"""
     # Register for BrowserStack, then grab it from https://www.browserstack.com/accounts/settings
     # bs_user = ''
@@ -57,7 +52,7 @@ def browser_init(context):
     #     'osVersion': '10',
     #     'browserName': 'Firefox',
     #     'sessionName': scenario_name
-    # }
+    #
     # options.set_capability('bstack:options', bstack_options)
     # context.driver = webdriver.Remote(command_executor=url, options=options)
 
@@ -67,6 +62,8 @@ def browser_init(context):
     context.driver.wait = WebDriverWait(context.driver, 10)
 
     context.app = Application(context.driver)
+
+    context.logger = setup_logging()
 
 
 def before_scenario(context, scenario):
@@ -80,6 +77,7 @@ def before_step(context, step):
 
 def after_step(context, step):
     if step.status == 'failed':
+        context.logger.error(f'Step failed: {step.name}')
         print('\nStep failed: ', step)
 
 
