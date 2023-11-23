@@ -34,7 +34,8 @@ class ContentPage(Page):
             # Perform your checks here
             try:
                 self.assert_no_error_message(*self.ERROR_MESSAGE, context=context)
-            except AssertionError:
+            except AssertionError as ae:
+                context.logger.error(f"Assertion failed: {ae}")
                 # Log the current URL as error if there is an issue
                 context.logger.error(f"Error encountered at URL: {current_url}")
 

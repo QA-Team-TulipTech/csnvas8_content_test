@@ -215,9 +215,9 @@ class Page:
         except NoSuchElementException as e:
             # self.logger.info("Test Passed: No error element found on the page.")
             pass  # Optionally, handle the exception here.
-        except AssertionError as ae:
-            context.logger.error(f"Assertion failed: {ae}")
-            context.logger.error(f"Error on page {self.driver.current_url}")
+        # except AssertionError as ae:
+        #     context.logger.error(f"Assertion failed: {ae}")
+        #     # context.logger.error(f"Error on page {self.driver.current_url}")
 
 # def assert_element_text_not_empty(self, *locator):
 #       """ Asserts that the text of the element identified by the locator is not empty. """
