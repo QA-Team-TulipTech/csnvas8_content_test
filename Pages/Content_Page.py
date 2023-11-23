@@ -12,7 +12,7 @@ class ContentPage(Page):
     def heading_is_not_empty(self):
         self.assert_element_text_not_empty(*self.HEADING_TEXT)
 
-    def test_article_has_heading(self):
+    def test_article_has_no_error(self):
 
 
         elements = self.find_elements(*self.ALL_ARTICLES)

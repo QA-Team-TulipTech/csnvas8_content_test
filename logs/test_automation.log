@@ -34,3 +34,11 @@
 2023-11-23 00:10:41 [DEBUG] parse - format 'User can enter to the {website}' -> 'User can enter to the (?P<website>.+?)'
 2023-11-23 00:10:41 [DEBUG] parse - format 'User can login' -> 'User can login'
 2023-11-23 00:10:41 [DEBUG] parse - format 'Verify Home link is present' -> 'Verify Home link is present'
+2023-11-23 12:11:21 [DEBUG] parse - format 'scroll down {n} times' -> 'scroll down (?P<n>.+?) times'
+2023-11-23 12:11:21 [DEBUG] parse - format 'User can see the content related to the subject' -> 'User can see the content related to the subject'
+2023-11-23 12:11:21 [DEBUG] parse - format 'Test all articles have content' -> 'Test all articles have content'
+2023-11-23 12:11:21 [DEBUG] parse - format 'User can enter to the {website}' -> 'User can enter to the (?P<website>.+?)'
+2023-11-23 12:11:21 [DEBUG] parse - format 'User can login' -> 'User can login'
+2023-11-23 12:11:21 [DEBUG] parse - format 'Verify Home link is present' -> 'Verify Home link is present'
+2023-11-23 12:12:14 [ERROR] Base_Page - Soft Assert Failed: Text of element with locator ('css selector', '[class="Text_normal__mZg_p Text_h2__l9odo"]') is empty.
+2023-11-23 12:12:35 [ERROR] Base_Page - Soft Assert Failed: Text of element with locator ('css selector', '[class="Text_normal__mZg_p Text_h2__l9odo"]') is empty.
