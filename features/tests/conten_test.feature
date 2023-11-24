@@ -1,4 +1,3 @@
-# Created by Sadiq at 22/11/23
 Feature: Testing content pages
   Background:
     Given User can enter to the https://www.canvas8.com/login

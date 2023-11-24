@@ -15,6 +15,8 @@ class SearchPage(Page):
 
     SEARCH = (By.CLASS_NAME, "SearchInput_searchInput__l7gKe")
 
+    TOPICS = (By.CSS_SELECTOR, '[class="Text_lighter__LoWNB Text_small__nIJNE"]')
+
     def select_date_from(self, from_month):
         self.click(*self.SELECT_FROM_MONTH)
         self.select_dropdown_by_value(*self.SELECT_FROM_MONTH, value=from_month)
@@ -37,3 +39,20 @@ class SearchPage(Page):
         search_field.send_keys(keyword)
         search_field.send_keys(Keys.ENTER)
         time.sleep(5)
+
+    def filter_by_topic(self, topic):
+        topics = self.find_elements(*self.TOPICS)
+
+        for i in range(len(topics)):
+            text = topics[i].text
+
+            if topic in text:
+                topics[i].click()
+                break
+
+
+
+
+
+
+

@@ -21,6 +21,7 @@ def scroll(context, n):
     context.logger.info(f"Number of articles found after scrolling {n} times: {len(articles)}")
 
 
-@then('Filter in the search page by date {year}')
-def filter_by_date(context, year):
-    context.app.search_page.select_date(from_year=year)
+@then('User click on the {topic}')
+def filter_by_toppic(context, topic):
+    context.app.search_page.filter_by_topic(topic=topic)
+
