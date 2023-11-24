@@ -63,14 +63,14 @@ class Page:
     def wait_for_element(self, *locator):
         """ Wait for an element to be present in the DOM. """
         try:
-            return self.wait.until(EC.presence_of_element_located(locator))
+            return self.wait.until(EC.presence_of_element_located(*locator))
         except TimeoutException:
             print(f"Element not found in DOM with locator: {locator}")
             return None
 
-    def select_dropdown_by_value(self, locator, value):
+    def select_dropdown_by_value(self, *locator, value):
         """ Select a value from a dropdown list. """
-        element = self.find_element(locator)
+        element = self.find_element(*locator)
         if element:
             select = Select(element)
             select.select_by_value(value)

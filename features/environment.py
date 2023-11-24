@@ -69,6 +69,8 @@ def browser_init(context):
 def before_scenario(context, scenario):
     print('\nStarted scenario: ', scenario.name)
     browser_init(context)
+    context.logger.info('\nStarted scenario: ', scenario.name)
+
 
 
 def before_step(context, step):
@@ -82,5 +84,5 @@ def after_step(context, step):
 
 
 def after_scenario(context, feature):
-    context.driver.delete_all_cookies()
+    # context.driver.delete_all_cookies()
     context.driver.quit()

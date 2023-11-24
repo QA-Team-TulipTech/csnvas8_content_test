@@ -22,7 +22,7 @@ class ContentPage(Page):
             # Assuming clicking the element opens a new tab
             time.sleep(2)
             elements[i].click()
-            time.sleep(1)  # Wait for the new tab to open
+            time.sleep(2)  # Wait for the new tab to open
 
             # Switch to the new tab (assuming it's the last one opened)
             self.driver.switch_to.window(self.driver.window_handles[-1])

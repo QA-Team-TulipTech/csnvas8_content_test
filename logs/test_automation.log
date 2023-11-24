@@ -160,3 +160,506 @@
 2023-11-23 20:54:37,964 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/future-method-offers-accessible-sex-education-for-all
 2023-11-23 20:54:42,955 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/07/how-are-indian-gen-zers-spending-on-luxury
 2023-11-23 20:54:43,105 - INFO - All articles have content
+2023-11-23 21:42:26,386 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 21:42:27,997 - INFO - User logged in successfully
+2023-11-23 21:42:31,648 - INFO - Verified Home link is present
+2023-11-23 21:42:35,738 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 21:42:46,267 - INFO - Number of articles found after scrolling 5 times: 72
+2023-11-23 21:42:51,453 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/why-are-older-generations-returning-to-renting
+2023-11-23 21:42:51,517 - ERROR - Assertion failed: Error element found on the page.
+2023-11-23 21:42:51,517 - ERROR - Error encountered at URL: https://www.canvas8.com/library/reports/2023/11/23/why-are-older-generations-returning-to-renting
+2023-11-23 21:42:56,702 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/whats-behind-the-gen-z-television-gap
+2023-11-23 21:43:02,270 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/23/how-high-tide-uses-seaweed-to-appeal-to-conscious-foodies
+2023-11-23 21:43:07,692 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/lego-uses-ar-to-create-intercontinental-snowball-fight
+2023-11-23 21:43:13,491 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/dulux-uses-yellow-paint-in-schools-to-boost-kids-health
+2023-11-23 21:43:19,566 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/luna-daily-normalises-vulvas-with-vulva-therapy-hotline
+2023-11-23 21:43:32,973 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/tiktokers-share-palestinian-family-recipes-to-fundraise
+2023-11-23 21:43:40,228 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/swifties-cruise-brings-music-fandom-on-holiday
+2023-11-23 21:43:51,340 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/americans-feel-pressured-to-stay-on-social-media
+2023-11-23 21:44:00,001 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/vestiaire-collective-holds-fast-fashion-to-account
+2023-11-23 21:44:10,969 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/the-marvels-highlights-oversaturation-for-marvel-fans
+2023-11-23 21:44:18,206 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/22/what-do-gen-x-women-want-from-beauty-brands
+2023-11-23 21:44:24,640 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/22/how-runna-helps-fitness-fanatics-achieve-their-goals
+2023-11-23 21:44:31,769 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/elf-encourages-youth-entrepreneurship-with-roblox
+2023-11-23 21:44:36,789 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/pictures-for-palestine-motivates-charitable-giving
+2023-11-23 21:44:41,932 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/the-unseen-machine-sparks-debate-on-ai-in-creativity
+2023-11-23 21:44:48,361 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/aldi-helps-aussies-celebrate-christmas-on-a-budget
+2023-11-23 21:44:53,383 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/french-activists-challenge-the-surge-of-antisemitism
+2023-11-23 21:44:56,704 - INFO - Visiting URL: https://www.canvas8.com/search
+2023-11-23 21:44:57,692 - ERROR - Step failed: Test all articles have content
+2023-11-23 21:56:20,892 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 21:56:22,558 - INFO - User logged in successfully
+2023-11-23 21:56:26,577 - INFO - Verified Home link is present
+2023-11-23 21:56:34,706 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 21:56:46,258 - INFO - Number of articles found after scrolling 5 times: 120
+2023-11-23 21:56:58,627 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/why-are-older-generations-returning-to-renting
+2023-11-23 21:56:58,694 - ERROR - Assertion failed: Error element found on the page.
+2023-11-23 21:56:58,694 - ERROR - Error encountered at URL: https://www.canvas8.com/library/reports/2023/11/23/why-are-older-generations-returning-to-renting
+2023-11-23 21:57:03,849 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/whats-behind-the-gen-z-television-gap
+2023-11-23 21:57:12,373 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/23/how-high-tide-uses-seaweed-to-appeal-to-conscious-foodies
+2023-11-23 21:57:18,858 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/lego-uses-ar-to-create-intercontinental-snowball-fight
+2023-11-23 21:57:24,434 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/americans-feel-pressured-to-stay-on-social-media
+2023-11-23 21:57:30,926 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/vestiaire-collective-holds-fast-fashion-to-account
+2023-11-23 21:57:43,798 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/luna-daily-normalises-vulvas-with-vulva-therapy-hotline
+2023-11-23 21:57:52,231 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/the-marvels-highlights-oversaturation-for-marvel-fans
+2023-11-23 21:57:58,147 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/dulux-uses-yellow-paint-in-schools-to-boost-kids-health
+2023-11-23 21:58:03,900 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/tiktokers-share-palestinian-family-recipes-to-fundraise
+2023-11-23 21:58:09,469 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/swifties-cruise-brings-music-fandom-on-holiday
+2023-11-23 21:58:15,052 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/22/what-do-gen-x-women-want-from-beauty-brands
+2023-11-23 21:58:20,791 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/22/how-runna-helps-fitness-fanatics-achieve-their-goals
+2023-11-23 21:58:26,456 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/the-unseen-machine-sparks-debate-on-ai-in-creativity
+2023-11-23 21:58:32,894 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/elf-encourages-youth-entrepreneurship-with-roblox
+2023-11-23 21:58:38,450 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/pictures-for-palestine-motivates-charitable-giving
+2023-11-23 21:58:44,629 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/aldi-helps-aussies-celebrate-christmas-on-a-budget
+2023-11-23 21:58:50,698 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/australian-theatre-uplifts-diverse-communities
+2023-11-23 21:58:56,846 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/korean-school-dropout-vlogs-signal-shifting-life-goals
+2023-11-23 21:59:03,034 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/snap-map-offers-firsthand-perspectives-of-events-in-gaza
+2023-11-23 21:59:06,617 - INFO - Visiting URL: https://www.canvas8.com/search
+2023-11-23 21:59:07,589 - ERROR - Step failed: Test all articles have content
+2023-11-23 22:18:02,321 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 22:18:03,566 - INFO - User logged in successfully
+2023-11-23 22:18:07,591 - INFO - Verified Home link is present
+2023-11-23 22:18:15,929 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 22:18:27,105 - INFO - Number of articles found after scrolling 5 times: 72
+2023-11-23 22:18:38,685 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/why-are-older-generations-returning-to-renting
+2023-11-23 22:18:44,704 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/whats-behind-the-gen-z-television-gap
+2023-11-23 22:18:49,901 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/23/how-high-tide-uses-seaweed-to-appeal-to-conscious-foodies
+2023-11-23 22:18:55,587 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/lego-uses-ar-to-create-intercontinental-snowball-fight
+2023-11-23 22:19:01,715 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/dulux-uses-yellow-paint-in-schools-to-boost-kids-health
+2023-11-23 22:19:06,968 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/luna-daily-normalises-vulvas-with-vulva-therapy-hotline
+2023-11-23 22:19:11,980 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/tiktokers-share-palestinian-family-recipes-to-fundraise
+2023-11-23 22:19:17,886 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/swifties-cruise-brings-music-fandom-on-holiday
+2023-11-23 22:19:23,278 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/americans-feel-pressured-to-stay-on-social-media
+2023-11-23 22:19:28,497 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/vestiaire-collective-holds-fast-fashion-to-account
+2023-11-23 22:19:33,870 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/the-marvels-highlights-oversaturation-for-marvel-fans
+2023-11-23 22:19:40,027 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/22/what-do-gen-x-women-want-from-beauty-brands
+2023-11-23 22:19:46,145 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/22/how-runna-helps-fitness-fanatics-achieve-their-goals
+2023-11-23 22:19:51,996 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/elf-encourages-youth-entrepreneurship-with-roblox
+2023-11-23 22:19:57,426 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/pictures-for-palestine-motivates-charitable-giving
+2023-11-23 22:20:03,199 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/the-unseen-machine-sparks-debate-on-ai-in-creativity
+2023-11-23 22:20:08,701 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/aldi-helps-aussies-celebrate-christmas-on-a-budget
+2023-11-23 22:20:14,125 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/french-activists-challenge-the-surge-of-antisemitism
+2023-11-23 22:20:19,327 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/australian-theatre-uplifts-diverse-communities
+2023-11-23 22:20:24,435 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/korean-school-dropout-vlogs-signal-shifting-life-goals
+2023-11-23 22:20:29,897 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/snap-map-offers-firsthand-perspectives-of-events-in-gaza
+2023-11-23 22:20:35,918 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/21/why-are-latines-voting-conservative
+2023-11-23 22:20:41,360 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/21/why-ros-wine-is-booming-in-germany
+2023-11-23 22:20:47,048 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/21/how-cliniques-black-honey-taps-into-beauty-nostalgia
+2023-11-23 22:20:53,924 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/rainforest-alliance-inspires-optimism-in-climate-action
+2023-11-23 22:21:01,037 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/watermelon-emojis-show-increased-adoption-of-algospeak
+2023-11-23 22:21:07,567 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/bubbel-chat-matches-users-with-opposing-political-views
+2023-11-23 22:21:13,124 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/chinese-couples-look-to-settle-down-despite-money-woes
+2023-11-23 22:21:19,826 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/daye-offers-approachable-athome-sti-test-kit
+2023-11-23 22:21:25,332 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/subway-fits-speak-to-a-desire-for-relatable-fashion
+2023-11-23 22:21:32,011 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/stella-mccartney-spotlights-the-power-of-horse-therapy
+2023-11-23 22:21:39,087 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/bleacher-report-targets-digital-first-sports-fans
+2023-11-23 22:21:45,948 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/20/whats-the-future-of-sneakerhead-culture
+2023-11-23 22:21:52,867 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/20/why-anticoncept-store-jogging-focuses-on-local-retail
+2023-11-23 22:21:58,551 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/palestinepact-web-extension-supports-consumer-activism
+2023-11-23 22:22:05,252 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/eharmony-ad-promotes-radical-honesty-in-relationships
+2023-11-23 22:22:12,110 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/the-ncsc-uses-humour-to-improve-peoples-online-safety
+2023-11-23 22:22:18,635 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/femaledriven-perspectives-are-transforming-adult-content
+2023-11-23 22:22:25,142 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/doves-short-film-disrupts-anxiety-around-ageing
+2023-11-23 22:22:30,432 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/google-pixel-8-pro-flexes-daily-practicality-of-ai
+2023-11-23 22:22:36,127 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/vruit-offers-intimate-insemination-for-queer-germans
+2023-11-23 22:22:41,500 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/uber-carshare-make-seconds-cars-more-affordable
+2023-11-23 22:22:48,107 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/17/how-are-britons-honing-their-relationships-with-tech
+2023-11-23 22:22:54,885 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/17/title-feel-empowering-sexual-wellness-in-brazil
+2023-11-23 22:23:02,591 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/17/how-are-americans-honing-their-relationships-with-tech
+2023-11-23 22:23:09,920 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/17/how-nine25-gamifies-microinvesting-for-young-aussies
+2023-11-23 22:23:17,293 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/17/how-marhenj-turns-ecoconsciousness-into-korean-luxury
+2023-11-23 22:23:24,650 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/korean-convenience-stores-get-nostalgic-with-character-collabs
+2023-11-23 22:23:31,143 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/ai-pin-brings-smart-tech-to-the-digitally-fatigued
+2023-11-23 22:23:37,769 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/the-knotty-ones-uplifts-female-artisans-in-lithuania
+2023-11-23 22:23:42,209 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/korean-convenience-stores-get-nostalgic-with-character-collabs
+2023-11-23 22:23:49,035 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/the-trevor-project-leaves-x-amid-antilgbtq-sentiment
+2023-11-23 22:23:54,091 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/americans-want-seamless-holiday-travel-experiences
+2023-11-23 22:24:00,800 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/mammut-jacket-keeps-wearers-warm-with-nespresso-waste
+2023-11-23 22:24:07,900 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/positive-luxury-releases-updated-environmental-policies
+2023-11-23 22:24:14,798 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/16/what-does-worklife-balance-mean-for-gen-z
+2023-11-23 22:24:20,641 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/16/why-victoria-monts-nostalgic-aura-is-a-music-fan-magnet
+2023-11-23 22:24:26,457 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/16/why-are-young-britons-yearning-for-nostalgic-snacks
+2023-11-23 22:24:32,961 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/quaker-oats-launches-conveniently-eco-porridge-packaging
+2023-11-23 22:24:39,527 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/fortnite-map-sheds-light-on-the-struggles-of-indigenous-groups
+2023-11-23 22:24:54,056 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/japanese-youths-seek-out-communitycentric-socials
+2023-11-23 22:25:01,195 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/bumble-ad-highlights-dating-experiences-of-black-women
+2023-11-23 22:25:07,880 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/modem-brings-aipowered-solutions-to-healthcare
+2023-11-23 22:25:14,676 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/americans-wont-let-inflation-change-thanksgiving-menus
+2023-11-23 22:25:20,258 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/micheals-champions-craft-with-online-creator-marketplace
+2023-11-23 22:25:26,609 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/john-lewis-christmas-ad-celebrates-evolving-traditions
+2023-11-23 22:25:31,641 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/accessible-futures
+2023-11-23 22:25:36,870 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/intentional-tech
+2023-11-23 22:25:42,138 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/virtual-spirituality
+2023-11-23 22:25:47,135 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/ubiquity-tensions
+2023-11-23 22:25:53,689 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/15/how-foldable-phones-are-reshaping-gen-z-tech-priorities
+2023-11-23 22:26:00,432 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/15/how-capacities-boosts-productivity-via-notetaking
+2023-11-23 22:26:00,552 - INFO - All articles have content
+2023-11-23 22:34:13,535 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 22:34:14,654 - INFO - User logged in successfully
+2023-11-23 22:34:18,721 - INFO - Verified Home link is present
+2023-11-23 22:34:23,697 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 22:35:13,131 - INFO - Number of articles found after scrolling 20 times: 338
+2023-11-23 22:35:19,231 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/why-are-older-generations-returning-to-renting
+2023-11-23 22:35:23,735 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/23/whats-behind-the-gen-z-television-gap
+2023-11-23 22:35:28,237 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/23/how-high-tide-uses-seaweed-to-appeal-to-conscious-foodies
+2023-11-23 22:35:32,859 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/lego-uses-ar-to-create-intercontinental-snowball-fight
+2023-11-23 22:35:37,739 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/americans-feel-pressured-to-stay-on-social-media
+2023-11-23 22:35:42,617 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/vestiaire-collective-holds-fast-fashion-to-account
+2023-11-23 22:35:47,144 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/luna-daily-normalises-vulvas-with-vulva-therapy-hotline
+2023-11-23 22:35:52,306 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/the-marvels-highlights-oversaturation-for-marvel-fans
+2023-11-23 22:35:56,757 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/dulux-uses-yellow-paint-in-schools-to-boost-kids-health
+2023-11-23 22:36:01,235 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/tiktokers-share-palestinian-family-recipes-to-fundraise
+2023-11-23 22:36:05,712 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/23/swifties-cruise-brings-music-fandom-on-holiday
+2023-11-23 22:36:10,246 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/22/what-do-gen-x-women-want-from-beauty-brands
+2023-11-23 22:36:15,213 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/22/how-runna-helps-fitness-fanatics-achieve-their-goals
+2023-11-23 22:36:19,666 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/the-unseen-machine-sparks-debate-on-ai-in-creativity
+2023-11-23 22:36:24,626 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/elf-encourages-youth-entrepreneurship-with-roblox
+2023-11-23 22:36:29,079 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/pictures-for-palestine-motivates-charitable-giving
+2023-11-23 22:36:34,281 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/aldi-helps-aussies-celebrate-christmas-on-a-budget
+2023-11-23 22:36:38,752 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/australian-theatre-uplifts-diverse-communities
+2023-11-23 22:36:43,239 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/korean-school-dropout-vlogs-signal-shifting-life-goals
+2023-11-23 22:36:48,134 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/snap-map-offers-firsthand-perspectives-of-events-in-gaza
+2023-11-23 22:36:52,856 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/22/french-activists-challenge-the-surge-of-antisemitism
+2023-11-23 22:36:57,399 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/21/why-are-latines-voting-conservative
+2023-11-23 22:37:01,961 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/21/why-ros-wine-is-booming-in-germany
+2023-11-23 22:37:06,607 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/21/how-cliniques-black-honey-taps-into-beauty-nostalgia
+2023-11-23 22:37:11,282 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/rainforest-alliance-inspires-optimism-in-climate-action
+2023-11-23 22:37:15,910 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/watermelon-emojis-show-increased-adoption-of-algospeak
+2023-11-23 22:37:20,462 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/bubbel-chat-matches-users-with-opposing-political-views
+2023-11-23 22:37:25,381 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/chinese-couples-look-to-settle-down-despite-money-woes
+2023-11-23 22:37:30,497 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/daye-offers-approachable-athome-sti-test-kit
+2023-11-23 22:37:35,155 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/subway-fits-speak-to-a-desire-for-relatable-fashion
+2023-11-23 22:37:39,641 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/stella-mccartney-spotlights-the-power-of-horse-therapy
+2023-11-23 22:37:44,265 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/bleacher-report-targets-digital-first-sports-fans
+2023-11-23 22:37:48,965 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/20/whats-the-future-of-sneakerhead-culture
+2023-11-23 22:37:53,583 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/20/why-anticoncept-store-jogging-focuses-on-local-retail
+2023-11-23 22:37:58,237 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/palestinepact-web-extension-supports-consumer-activism
+2023-11-23 22:38:02,671 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/eharmony-ad-promotes-radical-honesty-in-relationships
+2023-11-23 22:38:07,821 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/the-ncsc-uses-humour-to-improve-peoples-online-safety
+2023-11-23 22:38:12,577 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/femaledriven-perspectives-are-transforming-adult-content
+2023-11-23 22:38:17,227 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/doves-short-film-disrupts-anxiety-around-ageing
+2023-11-23 22:38:21,779 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/google-pixel-8-pro-flexes-daily-practicality-of-ai
+2023-11-23 22:38:26,454 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/20/vruit-offers-intimate-insemination-for-queer-germans
+2023-11-23 22:38:31,130 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/21/uber-carshare-make-seconds-cars-more-affordable
+2023-11-23 22:38:35,571 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/17/how-are-britons-honing-their-relationships-with-tech
+2023-11-23 22:38:40,268 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/17/title-feel-empowering-sexual-wellness-in-brazil
+2023-11-23 22:38:44,863 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/17/how-are-americans-honing-their-relationships-with-tech
+2023-11-23 22:38:49,595 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/17/how-nine25-gamifies-microinvesting-for-young-aussies
+2023-11-23 22:38:54,028 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/17/how-marhenj-turns-ecoconsciousness-into-korean-luxury
+2023-11-23 22:38:58,685 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/korean-convenience-stores-get-nostalgic-with-character-collabs
+2023-11-23 22:39:03,494 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/the-knotty-ones-uplifts-female-artisans-in-lithuania
+2023-11-23 22:39:08,523 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/the-trevor-project-leaves-x-amid-antilgbtq-sentiment
+2023-11-23 22:39:12,979 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/ai-pin-brings-smart-tech-to-the-digitally-fatigued
+2023-11-23 22:39:17,522 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/americans-want-seamless-holiday-travel-experiences
+2023-11-23 22:39:22,685 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/mammut-jacket-keeps-wearers-warm-with-nespresso-waste
+2023-11-23 22:39:27,209 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/positive-luxury-releases-updated-environmental-policies
+2023-11-23 22:39:32,158 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/17/sims-4-mirrors-generation-rents-landlord-frustrations
+2023-11-23 22:39:36,667 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/16/what-does-worklife-balance-mean-for-gen-z
+2023-11-23 22:39:41,468 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/16/why-victoria-monts-nostalgic-aura-is-a-music-fan-magnet
+2023-11-23 22:39:45,986 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/16/why-are-young-britons-yearning-for-nostalgic-snacks
+2023-11-23 22:39:50,366 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/fortnite-map-sheds-light-on-the-struggles-of-indigenous-groups
+2023-11-23 22:39:54,854 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/japanese-youths-seek-out-communitycentric-socials
+2023-11-23 22:39:59,478 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/bumble-ad-highlights-dating-experiences-of-black-women
+2023-11-23 22:40:04,429 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/modem-brings-aipowered-solutions-to-healthcare
+2023-11-23 22:40:08,866 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/americans-wont-let-inflation-change-thanksgiving-menus
+2023-11-23 22:40:13,474 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/quaker-oats-launches-conveniently-eco-porridge-packaging
+2023-11-23 22:40:18,085 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/micheals-champions-craft-with-online-creator-marketplace
+2023-11-23 22:40:22,604 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/16/john-lewis-christmas-ad-celebrates-evolving-traditions
+2023-11-23 22:40:27,029 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/accessible-futures
+2023-11-23 22:40:31,595 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/intentional-tech
+2023-11-23 22:40:36,203 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/virtual-spirituality
+2023-11-23 22:40:40,635 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/technology/ubiquity-tensions
+2023-11-23 22:40:45,304 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/15/how-foldable-phones-are-reshaping-gen-z-tech-priorities
+2023-11-23 22:40:49,870 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/15/how-capacities-boosts-productivity-via-notetaking
+2023-11-23 22:40:56,809 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/15/technology-sector-snapshot-november-2023
+2023-11-23 22:41:03,463 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/15/how-is-social-shopping-changing-the-way-indians-spend-on-diwali
+2023-11-23 22:41:10,155 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/doritos-offers-gamers-crunchcancelling-software
+2023-11-23 22:41:16,796 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/mcdonalds-x-crocs-brings-kidult-fandoms-together
+2023-11-23 22:41:22,816 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/short-hair-campaign-tackles-antifeminist-korean-ideals
+2023-11-23 22:41:28,244 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/spotify-launches-merch-capsule-collection-for-superfans
+2023-11-23 22:41:34,796 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/unesco-report-signals-rising-made-in-africa-fashion
+2023-11-23 22:41:41,407 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/baidu-uses-ai-to-create-a-digital-human-marketplace
+2023-11-23 22:41:47,947 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/waze-introduces-ai-feature-to-enhance-driver-safety
+2023-11-23 22:41:54,486 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/15/us-college-students-turn-away-from-online-dating
+2023-11-23 22:42:00,944 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/15/inside-tiktoks-cultural-footprint-on-gen-z-in-southeast-asia
+2023-11-23 22:42:08,949 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/14/why-gen-z-women-seek-femininity-gurus-on-social-media
+2023-11-23 22:42:16,173 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/14/how-fever-offers-music-buffs-a-sensorial-live-experience
+2023-11-23 22:42:22,765 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/14/whats-drinking-in-southeast-asia-like-postpandemic
+2023-11-23 22:42:28,663 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/14/how-location-sharing-is-impacting-gen-zs-relationships
+2023-11-23 22:42:34,022 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/boots-christmas-ad-celebrates-the-joy-of-giving
+2023-11-23 22:42:42,066 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/appetite-uses-ai-to-streamline-eating-out-with-friends
+2023-11-23 22:42:48,897 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/more-korean-teens-experiment-with-credit-cards
+2023-11-23 22:42:54,675 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/families-in-apac-are-opting-for-top-local-universities
+2023-11-23 22:43:01,281 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/cotopaxi-x-headspace-looks-to-combine-nature-and-tech
+2023-11-23 22:43:08,262 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/dior-launches-luxury-fragrance-line-for-babies
+2023-11-23 22:43:14,738 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/go-wild-festival-celebrates-peoples-love-for-nature
+2023-11-23 22:43:21,282 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/14/new-technologies-help-canadians-save-on-holiday-shopping
+2023-11-23 22:43:28,586 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/13/how-c-mm-unites-green-cosmetics-with-vietnamese-tradition
+2023-11-23 22:43:35,561 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/13/how-are-southeast-asian-fandoms-growing-and-mobilising
+2023-11-23 22:43:42,352 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/13/why-amelia-dimoldenbergs-deadpan-comedy-is-so-popular
+2023-11-23 22:43:47,545 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/13/whats-behind-the-rise-of-yearnposting
+2023-11-23 22:43:53,984 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/overconsumption-undermines-fashions-efforts-to-go-green
+2023-11-23 22:44:01,975 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/amazons-christmas-ad-reminds-people-joy-is-ageless
+2023-11-23 22:44:07,504 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/vodafone-celebrates-the-joy-of-connection-this-christmas
+2023-11-23 22:44:14,762 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/uk-museums-recognise-their-climate-responsibility
+2023-11-23 22:44:21,202 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/adidas-basketball-ad-embraces-unpolished-authenticity
+2023-11-23 22:44:28,749 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/global-demonstrations-demand-ceasefire-in-gaza
+2023-11-23 22:44:35,561 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/irelands-air-quality-forecast-helps-people-plan-ahead
+2023-11-23 22:44:44,350 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/13/nike-puts-parents-at-ease-with-medical-professionals
+2023-11-23 22:44:52,399 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/10/what-down-payment-the-science-of-consumer-liquidity
+2023-11-23 22:45:01,899 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/10/jules-terpak-on-the-future-of-parasocial-relationships
+2023-11-23 22:45:08,976 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/10/how-couples-therapy-explores-relationship-complexity
+2023-11-23 22:45:15,332 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/10/staying-in-line-singapores-obsession-with-long-queues
+2023-11-23 22:45:22,159 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/chart-music-suggests-alcohol-is-losing-its-cool
+2023-11-23 22:45:29,230 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/uk-shoppers-plan-ahead-to-cut-christmas-costs
+2023-11-23 22:45:35,843 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/cocacola-encourages-people-to-spread-christmas-kindness
+2023-11-23 22:45:42,687 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/giorgio-armani-launches-genderless-sartorial-collection
+2023-11-23 22:45:49,386 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/how-to-have-sex-elevates-conversations-about-consent
+2023-11-23 22:45:55,870 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/ace-valley-enhances-physical-intimacy-with-cannabis-gummies
+2023-11-23 22:46:01,630 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/matics-robovacuums-marry-convenience-with-privacy
+2023-11-23 22:46:07,086 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/10/deft-uses-ai-and-visual-search-to-find-anything-online
+2023-11-23 22:46:13,384 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/09/a-cultural-snapshot-of-the-rural-uk-2023
+2023-11-23 22:46:20,079 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/09/whats-the-future-of-the-ksa-mall
+2023-11-23 22:46:25,522 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/09/whats-the-future-of-flavoured-cider-among-uk-drinkers
+2023-11-23 22:46:32,260 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/09/how-gentlewoman-is-bringing-thai-fashion-across-southeast-asia
+2023-11-23 22:46:39,054 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/09/dani-klari-elevating-design-identities-on-tiktok
+2023-11-23 22:46:45,708 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/09/how-gen-z-is-redefining-the-australian-luxury-market
+2023-11-23 22:46:52,407 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/indian-netizens-hit-back-at-calls-for-70hour-work-week
+2023-11-23 22:46:58,853 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/kendrick-lamar-releases-dumb-phone-for-minimalists
+2023-11-23 22:47:05,408 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/restaurant-workers-pledge-for-ceasefire-in-palestine
+2023-11-23 22:47:12,431 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/dot-ai-nudges-users-with-personalised-productivity-tools
+2023-11-23 22:47:18,980 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/08/whats-fuelling-the-protein-foods-craze-in-india
+2023-11-23 22:47:25,503 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/japanese-firms-debut-period-shorts-for-women-athletes
+2023-11-23 22:47:30,636 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/six-senses-appeals-to-climatecurious-luxury-travellers
+2023-11-23 22:47:37,158 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/tiktoks-black-nail-theory-celebrates-the-female-gaze
+2023-11-23 22:47:42,870 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/09/milanese-caf-offers-social-channels-for-online-activism
+2023-11-23 22:47:49,443 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/08/what-is-the-future-of-gaming-for-disabled-players
+2023-11-23 22:47:56,734 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/08/how-pi-is-bringing-a-human-touch-to-techdriven-ai
+2023-11-23 22:48:02,811 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/pinterest-gives-gen-z-teens-more-passive-social-media
+2023-11-23 22:48:09,334 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/india-heralds-new-era-of-luxury-with-jio-world-plaza
+2023-11-23 22:48:15,709 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/study-finds-apac-brand-visuals-remain-stereotypical
+2023-11-23 22:48:22,081 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/ecofoundation-drip-makes-sportswear-more-circular-in-nl
+2023-11-23 22:48:28,676 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/the-louvre-adopts-snap-tech-for-immersive-ar-exhibits
+2023-11-23 22:48:35,417 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/working-from-home-is-exacerbating-loneliness-in-the-us
+2023-11-23 22:48:41,982 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/almouneer-helps-egyptians-with-diabetes-management
+2023-11-23 22:48:48,476 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/08/future-method-offers-accessible-sex-education-for-all
+2023-11-23 22:48:55,383 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/07/how-are-indian-gen-zers-spending-on-luxury
+2023-11-23 22:49:02,058 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/07/how-are-supplements-changing-us-health-priorities
+2023-11-23 22:49:08,876 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/07/why-lbty-is-going-big-on-scent-for-luxury-beauty-lovers
+2023-11-23 22:49:15,355 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/07/how-gen-zers-are-fighting-hustle-culture
+2023-11-23 22:49:22,630 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/young-canadians-are-growing-more-anxious-about-debt
+2023-11-23 22:49:29,697 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/vestiaire-collective-x-burberry-launch-resale-platform
+2023-11-23 22:49:36,199 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/pulpatronics-delivers-on-rfids-sustainability-promise
+2023-11-23 22:49:43,045 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/lime-tackles-helmet-hair-to-encourage-safe-biking
+2023-11-23 22:49:49,524 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/skims-x-nba-deal-merges-worlds-of-sports-and-fashion
+2023-11-23 22:49:56,238 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/pet-parents-plan-to-spend-big-for-the-holiday-season
+2023-11-23 22:50:02,209 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/sainsburys-extends-personalised-nectar-deals-to-online
+2023-11-23 22:50:08,938 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/07/canadian-men-are-falling-victim-to-sextortion-crimes
+2023-11-23 22:50:15,789 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/06/how-raji-on-netflix-games-invites-players-to-indias-mythology
+2023-11-23 22:50:22,325 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/06/whats-behind-the-y2k-resurgence-of-tooth-gems
+2023-11-23 22:50:29,223 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/06/how-reformation-constructed-an-engaged-global-community
+2023-11-23 22:50:34,669 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/starbucks-leans-into-budding-chinese-coffee-culture
+2023-11-23 22:50:41,231 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/leica-camera-feature-aims-to-combat-misinformation
+2023-11-23 22:50:47,638 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/mschf-exhibition-blurs-line-between-art-and-consumption
+2023-11-23 22:50:54,165 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/chinese-gen-zers-are-investing-in-gold-to-grow-wealth
+2023-11-23 22:51:00,815 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/dark-patterns-are-misleading-online-shoppers-in-japan
+2023-11-23 22:51:07,778 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/ulta-increases-its-focus-on-instore-wellness-discovery
+2023-11-23 22:51:16,460 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/chipotles-food-service-robot-trial-spurs-controversy
+2023-11-23 22:51:23,043 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/consumers-globally-join-bds-movement-to-end-violence
+2023-11-23 22:51:29,858 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/03/how-are-britons-planning-their-perfect-holidays
+2023-11-23 22:51:36,722 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/03/how-are-americans-planning-their-perfect-holidays
+2023-11-23 22:51:43,592 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/03/milano-vice-using-tech-to-serve-pizza-lovers
+2023-11-23 22:51:50,379 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/standwithpalestine-draws-significant-online-attention
+2023-11-23 22:51:56,070 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/skims-nipple-bra-encourages-an-embrace-of-femininity
+2023-11-23 22:52:03,180 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/allianz-swim-club-makes-swimming-accessible-to-all
+2023-11-23 22:52:10,472 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/employees-think-mental-health-openness-ruins-progress
+2023-11-23 22:52:16,976 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/palestinian-voices-censored-by-social-media-shadowbans
+2023-11-23 22:52:22,503 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/prada-x-unesco-raise-awareness-of-climate-conservation
+2023-11-23 22:52:29,170 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/before-you-ask-campaign-quells-myths-about-sight-loss
+2023-11-23 22:52:38,029 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/03/yum-bug-offers-londoners-insects-for-dinner
+2023-11-23 22:52:44,632 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/02/a-cultural-snapshot-of-the-urban-uk
+2023-11-23 22:52:51,666 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/02/how-rentawig-inspires-conscious-hair-connoisseurs
+2023-11-23 22:52:59,217 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/02/how-are-older-people-rediscovering-romance-and-dating
+2023-11-23 22:53:06,849 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/peanut-campaign-spotlights-the-raw-side-of-motherhood
+2023-11-23 22:53:13,600 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/goodcleangoop-brings-highend-skincare-to-the-masses
+2023-11-23 22:53:18,899 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/the-daily-wire-launches-antiwoke-streaming-app-for-kids
+2023-11-23 22:53:25,613 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/adidas-documentary-captures-skate-culture-in-china
+2023-11-23 22:53:32,402 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/gay-chinese-dating-app-blued-aims-to-beat-grindr-in-usa
+2023-11-23 22:53:38,951 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/amazon-clinic-service-caters-to-cold-and-flu-symptoms
+2023-11-23 22:53:45,317 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/antiai-protests-are-spurred-on-by-tech-distrust
+2023-11-23 22:53:51,180 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/02/young-protesters-rally-on-roblox-in-support-of-palestine
+2023-11-23 22:53:56,386 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/travel-and-leisure/sports-unlimited
+2023-11-23 22:54:01,453 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/01/whats-the-girlification-of-gen-z-all-about
+2023-11-23 22:54:06,561 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/travel-and-leisure/far-flung-fandoms
+2023-11-23 22:54:11,764 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/travel-and-leisure/community-pastimes
+2023-11-23 22:54:16,752 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/travel-and-leisure/holiday-hackers
+2023-11-23 22:54:22,506 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/01/how-gen-z-gamers-are-levelling-up-with-nutrition-plans
+2023-11-23 22:54:30,638 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/11/01/travel-and-leisure-sector-snapshot-november-2023
+2023-11-23 22:54:37,963 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/11/01/why-mikaela-loach-is-empowering-gen-z-environmentalists
+2023-11-23 22:54:43,400 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/lesbian-sex-comedy-bottoms-ignites-cult-appeal-in-gen-z
+2023-11-23 22:54:51,650 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/news-fatigue-is-generating-avoidant-political-behaviour
+2023-11-23 22:54:59,211 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/vogue-arabia-pays-homage-to-doctors-and-nurses-in-gaza
+2023-11-23 22:55:06,439 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/amplifying-indigenous-flavours-evolves-tired-food-tropes
+2023-11-23 22:55:12,937 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/sassy-man-apocalypse-subverts-gender-norms-online
+2023-11-23 22:55:19,497 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/multilingual-game-ami-tackles-dementia-in-singaporeans
+2023-11-23 22:55:25,939 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/doha-film-institute-uplifts-palestinian-voices
+2023-11-23 22:55:32,551 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/01/cabinet-health-tackles-plastic-pollution-in-healthcare
+2023-11-23 22:55:39,403 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/31/how-dendezeiro-champions-inclusive-fashion-in-brazil
+2023-11-23 22:55:45,943 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/31/how-are-uk-department-stores-drawing-in-customers
+2023-11-23 22:55:52,485 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/31/what-is-the-future-of-british-craft-beer
+2023-11-23 22:56:00,193 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/31/why-emamis-project-khoj-tracks-smes-in-indian-villages
+2023-11-23 22:56:07,281 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/mcare-makes-sure-seniors-adhere-to-their-medication
+2023-11-23 22:56:14,568 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/distance-encourages-parisians-to-steal-from-their-store
+2023-11-23 22:56:19,996 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/lidl-closes-price-gap-between-vegan-and-meat-products
+2023-11-23 22:56:25,704 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/the-ghostface-trend-ignites-erotic-macabre-among-gen-z
+2023-11-23 22:56:32,922 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/dove-x-nike-program-looks-to-keep-young-girls-in-sports
+2023-11-23 22:56:39,993 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/stamma-ad-calls-out-impatience-with-stammerers
+2023-11-23 22:56:45,514 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/us-gen-zers-cook-at-home-to-save-up-for-financial-goals
+2023-11-23 22:56:51,339 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/31/school-elevates-mental-wellbeing-through-interior-design
+2023-11-23 22:56:58,288 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/27/why-japan-airlines-is-renting-clothes-to-travellers
+2023-11-23 22:57:04,237 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/30/how-tube-girl-danced-her-way-into-the-cultural-zeitgeist
+2023-11-23 22:57:10,171 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/30/why-music-fans-are-going-all-out-with-concert-outfits
+2023-11-23 22:57:17,277 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/sour-patch-kids-marks-halloween-with-cringe-or-candy
+2023-11-23 22:57:22,642 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/aussie-pubgoers-seek-social-and-financial-support
+2023-11-23 22:57:28,454 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/gen-alphas-are-becoming-skincare-buffs-thanks-to-tiktok
+2023-11-23 22:57:35,276 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/nwsl-partners-with-tiffany-for-new-championship-trophy
+2023-11-23 22:57:41,720 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/milk-bar-x-philadelphia-offers-bagel-bombs-for-snackers
+2023-11-23 22:57:48,811 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/people-are-quitting-their-jobs-over-weak-climate-action
+2023-11-23 22:57:55,983 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/latimerai-addresses-bias-and-representation-issues
+2023-11-23 22:58:02,928 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/30/british-diyers-are-drawn-to-japandi-style-interiors
+2023-11-23 22:58:09,510 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/27/plastic-the-science-of-product-packaging-bias
+2023-11-23 22:58:16,706 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/27/how-east-asian-girl-gang-empowers-diasporic-community
+2023-11-23 22:58:21,793 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/27/stanislav-ivanov-on-the-future-of-ai-in-travel
+2023-11-23 22:58:29,097 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/27/how-pawga-extends-a-wellness-lifestyle-to-animal-welfare
+2023-11-23 22:58:35,754 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/26/how-did-australias-indie-studios-spark-a-digital-gaming-industry
+2023-11-23 22:58:42,605 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/icelanders-push-for-gender-equity-and-an-end-to-violence
+2023-11-23 22:58:49,419 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/interests-in-solarpunk-ecosolutions-are-warming-up
+2023-11-23 22:58:56,192 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/louis-vuittons-popup-nods-to-rich-culture-of-shanghai
+2023-11-23 22:59:02,800 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/young-cinephiles-flock-to-killers-of-the-flower-moon
+2023-11-23 22:59:08,700 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/chip-courts-savers-searching-for-experiential-joy
+2023-11-23 22:59:15,573 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/japanese-wards-use-nudge-theory-to-end-tourist-littering
+2023-11-23 22:59:20,342 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/japanese-wards-use-nudge-theory-to-end-tourist-littering
+2023-11-23 22:59:24,910 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/japanese-wards-use-nudge-theory-to-end-tourist-littering
+2023-11-23 22:59:32,590 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/dubai-to-uplift-labourers-with-community-market
+2023-11-23 22:59:37,454 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/27/japanese-wards-use-nudge-theory-to-end-tourist-littering
+2023-11-23 22:59:44,394 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/26/why-gen-zers-are-finding-community-in-libraries
+2023-11-23 22:59:50,889 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/26/how-do-we-close-the-ai-gender-gap
+2023-11-23 22:59:58,092 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/26/why-orient-express-is-changing-travel-for-conscious-travellers
+2023-11-23 23:00:03,905 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/11/06/young-singaporeans-still-aspire-to-own-private-homes
+2023-11-23 23:00:10,677 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/26/tottus-supermarkets-sells-discounted-mammograms
+2023-11-23 23:00:17,782 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/26/advertisers-in-the-us-are-overlooking-gen-x
+2023-11-23 23:00:23,718 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/26/boomers-cybersecurity-habits-stronger-than-gen-z-and-y
+2023-11-23 23:00:30,351 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/26/gymkhana-offer-premium-indian-culinary-indulgence-at-home
+2023-11-23 23:00:36,962 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/26/cunba-courts-sports-fans-seeking-authenticity
+2023-11-23 23:00:44,384 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/26/declining-digital-literacy-undermines-data-transparency
+2023-11-23 23:00:51,596 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/26/googles-accessibility-features-boost-access-for-all
+2023-11-23 23:00:56,941 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/25/rimowa-guiding-the-next-generation-of-luxury-travellers
+2023-11-23 23:01:01,998 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/25/how-americans-feel-about-changes-in-social-shopping
+2023-11-23 23:01:08,747 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/modibodi-highlights-period-poverty-through-tiktok-series
+2023-11-23 23:01:14,303 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/cinker-pictures-tempts-with-hot-pot-instead-of-popcorn
+2023-11-23 23:01:21,062 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/half-magic-helps-priscilla-fans-recreate-iconic-look
+2023-11-23 23:01:28,121 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/google-maps-simplifies-metro-ticket-purchasing-in-india
+2023-11-23 23:01:35,242 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/phobiasettings-innovation-further-personalises-gaming
+2023-11-23 23:01:42,152 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/praxis-uses-ai-to-renovate-homes-and-lower-energy-bills
+2023-11-23 23:01:47,711 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/pizza-hut-extends-hours-to-cater-to-lateeating-gen-zers
+2023-11-23 23:01:54,430 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/25/ad-shows-levis-as-fashion-staples-for-adventure-seekers
+2023-11-23 23:02:01,274 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/24/whats-behind-germanys-dealcoholisation-trend
+2023-11-23 23:02:08,166 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/24/qa-nononsense-skincare-for-beauty-enthusiasts
+2023-11-23 23:02:14,712 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/24/what-makes-south-korean-gen-y-and-gen-z-spend-on-luxury
+2023-11-23 23:02:20,235 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/uk-ad-regulator-reprimands-repsol-ad-for-greenwashing
+2023-11-23 23:02:26,830 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/louis-vuitton-reaches-new-communities-with-sports-stars
+2023-11-23 23:02:33,682 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/controversial-chinese-griefbots-memorialise-loved-ones
+2023-11-23 23:02:42,576 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/yasmina-meets-demand-for-culturally-specific-ai-chatbots
+2023-11-23 23:02:49,192 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/nasm-platforms-community-for-fitness-professionals
+2023-11-23 23:02:55,785 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/taj-mahal-tea-rain-billboard-honours-monsoon-season
+2023-11-23 23:03:05,922 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/eyeam-taps-brainskin-connection-for-holistic-beauty
+2023-11-23 23:03:12,844 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/24/stuttering-luxury-sector-signals-shifting-priorities
+2023-11-23 23:03:19,959 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/24/how-pizza-4ps-localises-ecoconscious-food-for-vietnamese-diners
+2023-11-23 23:03:25,501 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/23/how-the-solid-gold-rush-is-enticing-jewellery-buffs
+2023-11-23 23:03:32,597 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/23/404-media-indie-platform-for-mainstream-news-skeptics
+2023-11-23 23:03:39,281 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/bmw-and-lil-miquela-honour-the-wonder-of-irl-exploration
+2023-11-23 23:03:45,573 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/trendygolf-creates-community-through-earned-exclusivity
+2023-11-23 23:03:52,351 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/jack-in-the-box-engages-horror-fandom-with-feeding-time
+2023-11-23 23:03:59,266 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/john-lewis-platforms-care-experienced-creators
+2023-11-23 23:04:06,330 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/hm-elevates-sustainability-credentials-with-green-bond
+2023-11-23 23:04:11,768 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/flavour-is-key-to-swaying-aussie-meat-eaters
+2023-11-23 23:04:18,378 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/huawei-powers-elearning-in-south-african-schools
+2023-11-23 23:04:25,207 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/23/van-gogh-museum-triggers-hype-among-pokmon-fans
+2023-11-23 23:04:31,851 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/20/how-are-americans-managing-their-finances
+2023-11-23 23:04:38,438 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/20/how-are-britons-managing-their-finances
+2023-11-23 23:04:47,414 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/20/australians-love-new-tech--can-the-industrys-innovations-keep-up
+2023-11-23 23:04:54,995 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/20/cruise-driverless-taxis-for-the-modern-city-dweller
+2023-11-23 23:05:02,170 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/10ms-brings-quality-education-to-rural-bangladesh
+2023-11-23 23:05:09,146 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/gen-zers-swap-ketchup-for-novel-and-healthy-alternatives
+2023-11-23 23:05:16,299 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/apples-study-with-me-promotes-productivity-and-fun
+2023-11-23 23:05:22,738 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/tennis-australia-stokes-support-with-fan-culture
+2023-11-23 23:05:30,846 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/tersa-elevates-mindfulness-with-multisensorial-sound-pod
+2023-11-23 23:05:37,295 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/nike-japan-asks-girls-to-defy-the-pressure-to-be-perfect
+2023-11-23 23:05:44,526 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/gen-zers-constantly-network-through-peer-connections
+2023-11-23 23:05:51,266 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/20/chinese-ban-on-offensive-clothes-shows-cultural-nuance
+2023-11-23 23:05:56,704 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/19/how-is-a-tailormade-mindset-impacting-travel
+2023-11-23 23:06:03,554 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/19/how-british-families-are-adjusting-to-grocery-inflation
+2023-11-23 23:06:10,602 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/19/bombay-sweet-shop-remaking-indian-sweets-for-modern-tastes
+2023-11-23 23:06:17,594 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/19/severan-spotlighting-black-british-excellence-via-wine
+2023-11-23 23:06:24,457 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/19/from-automated-labour-to-ai-how-is-new-tech-changing-south-koreans-daily-lives
+2023-11-23 23:06:31,485 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/hypermasculine-messaging-deters-men-from-veganism
+2023-11-23 23:06:38,444 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/hivis-humanity-campaign-appeals-to-human-connection
+2023-11-23 23:06:45,121 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/uniqlo-courts-ecoconscious-shoppers-with-thrift-popup
+2023-11-23 23:06:50,110 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/hotel-indigo-showcases-hyperlocal-gems-for-tourists
+2023-11-23 23:06:56,965 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/japanese-firms-boost-parenthood-with-paternity-policies
+2023-11-23 23:07:03,890 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/circle-and-coinsph-simplify-remittances-for-filipinos
+2023-11-23 23:07:11,394 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/energy-company-asks-swedes-to-do-less-for-the-climate
+2023-11-23 23:07:17,783 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/19/chinese-series-challenges-british-museums-colonial-past
+2023-11-23 23:07:22,788 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/money/considered-investments
+2023-11-23 23:07:27,815 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/money/austerity-spending
+2023-11-23 23:07:32,603 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/money/liquidity-learnings
+2023-11-23 23:07:37,893 - INFO - Visiting URL: https://www.canvas8.com/library/behaviour/sector-behaviour/2023/money/get-rich-quick
+2023-11-23 23:07:44,753 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/18/money-sector-snapshot-october-2023
+2023-11-23 23:07:51,354 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/18/how-home-fragrances-are-changing-postpandemic-spaces
+2023-11-23 23:07:58,692 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/18/casual-readers-club-creating-community-with-literature
+2023-11-23 23:08:05,421 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/hospitality-alliance-signals-sector-sustainability-push
+2023-11-23 23:08:10,792 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/prophetic-ais-halo-melds-tech-with-lucid-dreaming
+2023-11-23 23:08:17,466 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/bumble-subverts-gen-z-slang-in-cricketfocused-campaign
+2023-11-23 23:08:24,276 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/happy-thursday-offers-noncarbonated-buzz-for-gen-zers
+2023-11-23 23:08:31,177 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/curaleaf-offers-portable-thc-drops-for-drinkers
+2023-11-23 23:08:37,960 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/bjrk-x-rosala-activist-anthem-uplifts-rural-voices
+2023-11-23 23:08:44,972 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/athletes-tap-stylists-to-build-personal-brands-off-pitch
+2023-11-23 23:08:51,865 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/18/dominos-free-pizza-helps-people-save-time-and-money
+2023-11-23 23:08:57,068 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/17/what-do-british-travellers-want-from-airports
+2023-11-23 23:09:03,615 - INFO - Visiting URL: https://www.canvas8.com/library/reports/2023/10/17/why-gen-zers-are-embracing-antiaestheticism-in-fashion
+2023-11-23 23:09:11,031 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/17/space-nk-building-on-hype-for-intheknow-beauty-buffs
+2023-11-23 23:09:16,584 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/misinformation-spreads-on-x-amid-israelpalestine-war
+2023-11-23 23:09:23,459 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/norwich-city-fc-spotlights-male-mental-health-crisis
+2023-11-23 23:09:31,695 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/oxfam-campaign-implores-australians-to-fight-inequality
+2023-11-23 23:09:38,239 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/minalba-promotes-accessibility-with-braille-packaging
+2023-11-23 23:09:46,217 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/google-launches-art-history-game-that-makes-learning-fun
+2023-11-23 23:09:52,921 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/campaign-uses-burps-to-focus-on-the-joy-of-ending-hunger
+2023-11-23 23:09:59,612 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/south-african-luxury-brand-reworks-traditional-fabrics
+2023-11-23 23:10:06,622 - INFO - Visiting URL: https://www.canvas8.com/library/signals/2023/10/17/rising-glitter-sales-show-expression-trumps-eco-values
+2023-11-23 23:10:13,274 - INFO - Visiting URL: https://www.canvas8.com/library/case-studies/2023/10/16/louis-vuitton-using-pop-culture-for-high-fashion
+2023-11-23 23:10:13,601 - INFO - All articles have content
+2023-11-23 23:34:00,083 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 23:34:01,230 - INFO - User logged in successfully
+2023-11-23 23:34:05,253 - INFO - Verified Home link is present
+2023-11-23 23:34:13,037 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 23:34:13,042 - ERROR - Step failed: Filter in the search page by date 2023
+2023-11-23 23:35:53,437 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 23:35:54,496 - INFO - User logged in successfully
+2023-11-23 23:35:57,506 - INFO - Verified Home link is present
+2023-11-23 23:36:05,132 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 23:36:05,172 - ERROR - Step failed: Filter in the search page by date 2023
+2023-11-23 23:37:14,587 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 23:37:15,941 - INFO - User logged in successfully
+2023-11-23 23:37:18,945 - INFO - Verified Home link is present
+2023-11-23 23:37:23,502 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 23:37:23,556 - ERROR - Step failed: Filter in the search page by date 2023
+2023-11-23 23:38:36,012 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 23:38:37,184 - INFO - User logged in successfully
+2023-11-23 23:38:40,171 - INFO - Verified Home link is present
+2023-11-23 23:38:43,844 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 23:38:43,853 - ERROR - Step failed: Filter in the search page by date 2023
+2023-11-23 23:42:55,627 - INFO - Entered into website: https://www.canvas8.com/login
+2023-11-23 23:42:56,721 - INFO - User logged in successfully
+2023-11-23 23:42:59,791 - INFO - Verified Home link is present
+2023-11-23 23:43:08,125 - INFO - Entered into website: https://www.canvas8.com/search
+2023-11-23 23:43:08,199 - ERROR - Step failed: Filter in the search page by date 2023
