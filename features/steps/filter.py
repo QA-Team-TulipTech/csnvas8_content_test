@@ -21,3 +21,7 @@ def scroll(context, n):
     articles = context.driver.find_elements(*ALL_ARTICLES)
     context.logger.info(f"Number of articles found after scrolling {n} times: {len(articles)}")
 
+@then('Filter in the search page by date {year}')
+def filter_by_date(context, year):
+    context.app.search_page.select_date(from_year=year)
+
