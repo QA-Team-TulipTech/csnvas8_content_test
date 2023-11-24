@@ -5,6 +5,6 @@ Feature: Testing content pages
     Then Verify Home link is present
 
   Scenario: On the all article page content is available
-    Given User can enter to the https://www.canvas8.com/searc
-    Then scroll down 20 times
+    Given User can enter to the https://www.canvas8.com/search
+    Then scroll down 10 times
     Then Test all articles have content

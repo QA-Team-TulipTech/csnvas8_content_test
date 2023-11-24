@@ -31,7 +31,7 @@ def setup_logging():
     return logger
 
 
-def get_logger(name):
-    setup_logging()
-    logger = logging.getLogger(name)
-    return logger
+# def get_logger(name):
+#     setup_logging()
+#     logger = logging.getLogger(name)
+#     return logger
