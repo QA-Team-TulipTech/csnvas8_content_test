@@ -30,8 +30,3 @@ def setup_logging():
     logger.addHandler(ch)
     return logger
 
-
-# def get_logger(name):
-#     setup_logging()
-#     logger = logging.getLogger(name)
-#     return logger
